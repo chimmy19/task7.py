@@ -31,5 +31,5 @@ print('mean_A = ', mean_A)
 print('max_A = ', max_A)
 print('min_A = ', min_A)
 print('Dot product of A and B = ', dot_product)
-print('Reshaped A(5, 1):\n', reshaped_A)
+print('Reshaped A(5, 1) = \n', reshaped_A)
 
